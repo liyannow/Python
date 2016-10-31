@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
-distributed under the GPL.
-git has a mutable index called stage.
+soc2ics.py "爬取正方管理系统上学生的选课信息处理后导出成ICS格式文件"
